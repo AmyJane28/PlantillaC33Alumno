@@ -1,2 +1,2 @@
-# PlantillaC33Alumno
-Plantilla de la clase 33 para el alumno
+# InvasiónPirataEtapa-5
+animación de sprite agregada 
